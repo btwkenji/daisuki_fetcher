@@ -24,6 +24,6 @@ reqwest = {version = "0.10.8", features = ["blocking"]}
 
 [dev-dependencies]
 assert_cmd = "0.11"
-tiny_http = "0.6.2"
+tiny_http = "0.8.0"
 assert_fs = "0.11"
 predicates = "1.0"
